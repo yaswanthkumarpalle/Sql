@@ -1,0 +1,6 @@
+{
+  "name": "CampusPlacement DBMS & Recruitment Suite",
+  "description": "High-performance campus recruitment database management system with interactive eligibility matching, SQL window function visualizer, recruitment kanban pipeline, and placement analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
